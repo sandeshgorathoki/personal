@@ -9,26 +9,26 @@ const contactInfo = [
   {
     icon: MapPin,
     label: 'Location',
-    value: 'San Francisco, CA',
+    value: 'Canada',
     href: '#',
   },
   {
     icon: Mail,
     label: 'Email',
-    value: 'hello@portfolio.com',
-    href: 'mailto:hello@portfolio.com',
+    value: 'sandeshgorathoki09@gmail.com',
+    href: 'mailto:sandeshgorathoki09@gmail.com',
   },
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567',
+    value: '+1 (226) 926-0845',
+    href: 'tel:+12269260845',
   },
 ];
 
 const socialLinks = [
   { icon: Twitter, label: 'Twitter', href: 'https://twitter.com' },
-  { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
+  { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/sandesh-gorathoki-391676276/' },
   { icon: Github, label: 'GitHub', href: 'https://github.com' },
   { icon: Dribbble, label: 'Dribbble', href: 'https://dribbble.com' },
 ];
