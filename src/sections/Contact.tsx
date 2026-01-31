@@ -29,7 +29,7 @@ const contactInfo = [
 const socialLinks = [
   { icon: Twitter, label: 'Twitter', href: 'https://twitter.com' },
   { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/sandesh-gorathoki-391676276/' },
-  { icon: Github, label: 'GitHub', href: 'https://github.com' },
+  { icon: Github, label: 'GitHub', href: 'https://github.com/sandeshgorathoki' },
   { icon: Dribbble, label: 'Dribbble', href: 'https://dribbble.com' },
 ];
 
