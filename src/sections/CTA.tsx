@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowRight, Calendar, Mail } from 'lucide-react';
+import { ArrowRight, Mail, MessageSquare } from 'lucide-react';
 
 export function CTA() {
   const sectionRef = useRef<HTMLDivElement>(null);
@@ -100,8 +100,8 @@ export function CTA() {
                 rel="noopener noreferrer"
                 className="btn-secondary"
               >
-                <Calendar className="mr-2 w-4 h-4" />
-                Book a Call
+                <MessageSquare className="mr-2 w-4 h-4" />
+                Send Message
               </a>
             </div>
 
@@ -118,7 +118,7 @@ export function CTA() {
                 className="flex items-center gap-2 text-grey dark:text-grey-light hover:text-blue-primary transition-colors duration-200"
               >
                 <Mail className="w-5 h-5" />
-                hello@portfolio.com
+                sandeshgorathoki09@gmail.com
               </a>
             </div>
           </div>
